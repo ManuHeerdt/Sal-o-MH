@@ -22,12 +22,14 @@ body{
     color: rgb(192, 235, 255);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-principal{
+
+.principal{
     background-color: #84b3d4;
     padding: 30px;
     margin:0px;
 
 }
-beneficios{
+
+.beneficios{
 
 }
