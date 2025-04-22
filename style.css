@@ -30,7 +30,7 @@ header button {
     height: 35px;
     width: 220px;
     border-radius: 5px;
-    /* background-color: transparent 10%; */
+    background-color: transparent;
     color: white;
 
 }
