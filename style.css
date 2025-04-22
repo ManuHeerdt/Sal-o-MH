@@ -26,6 +26,13 @@ header{
     text-align: center;
 }
 
+header button {
+    height: 35px;
+    width: 120px;
+    border-radius: 5px;
+    background-color: transparent;
+}
+
 .titulo2{
     color: rgb(192, 235, 255);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
