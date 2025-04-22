@@ -22,6 +22,10 @@ body{
    margin-left: 0px;
 }
 
+header{
+    text-align: center;
+}
+
 .titulo2{
     color: rgb(192, 235, 255);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
