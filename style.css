@@ -2,21 +2,21 @@ body{
     margin: 0px;
     padding: 0px;
     font-family: sans-serif;
-    background-color:rgb(154, 112, 21) ;
+    background-color:rgb(142, 109, 37) ;
 }
 
 #banner{
     width: 50%;
     display: block;
     margin: auto;
-    background-color:rgb(134, 99, 16) ;
+    background-color:rgb(142, 109, 37) ;
 }
 
 .titulo-principal{
    text-transform: uppercase;
    text-align: center;
    color: rgb(244, 244, 248);
-   background-color: rgb(169, 103, 21);
+   background-color: rgb(142, 109, 37);
    padding: 30px;
    margin: 0px;
    margin-left: 0px;
@@ -50,14 +50,14 @@ button a{
 }
 
 .principal{
-    background-color: #9e6515;
+    background-color: rgb(142, 109, 37)
     padding: 30px;
     margin:0px;
 
 }
 
 .beneficios{
-    background-color: #946a10;
+    background-color:rgb(142, 109, 37);
     padding: 30px;
     margin:0px;
 
